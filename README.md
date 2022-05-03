@@ -1,4 +1,4 @@
-# CovidDashboard
+# Covid Dashboard
 Tableau COVID-19 Dashboard
 
 ## Automated Dashboard
@@ -31,4 +31,9 @@ https://finch-groundhog-9245.squarespace.com/s/Dashboard-Icon_Deaths.png
 https://finch-groundhog-9245.squarespace.com/s/Dashboard-Icon_Recoveries.png
 
 
-![image](https://user-images.githubusercontent.com/29350894/166553577-426383a9-e9d7-42e9-beb4-c5b0deabe733.png)
+![image](https://user-images.githubusercontent.com/29350894/166553577-426383a9-e9d7-42e9-beb4-c5b0deabe733.png) 
+
+# Automated Covid19 Case Tracker
+
+![2](https://user-images.githubusercontent.com/29350894/166561377-cb449f4f-162c-419b-b933-2ad43eff59df.png)
+
