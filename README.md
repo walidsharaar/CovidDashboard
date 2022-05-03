@@ -29,3 +29,6 @@ https://finch-groundhog-9245.squarespace.com/s/Dashboard-Icon_Cases.png
 https://finch-groundhog-9245.squarespace.com/s/Dashboard-Icon_Deaths.png
 ##### Dashboard Icon_Recoveries.png
 https://finch-groundhog-9245.squarespace.com/s/Dashboard-Icon_Recoveries.png
+
+
+![image](https://user-images.githubusercontent.com/29350894/166553577-426383a9-e9d7-42e9-beb4-c5b0deabe733.png)
