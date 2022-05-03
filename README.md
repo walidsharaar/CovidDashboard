@@ -10,7 +10,7 @@ dashboard won’t update!
 
 ##Icons
 
-Dashboard Icon_Virus.png:
+Dashboard Icon_Virus.png
 https://finch-groundhog-9245.squarespace.com/s/Dashboard-Icon_Virus.png
 Dashboard Icon_Cases.png
 https://finch-groundhog-9245.squarespace.com/s/Dashboard-Icon_Cases.png
